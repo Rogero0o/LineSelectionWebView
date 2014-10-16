@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.roger.lineselectionwebview.drag.DragLayer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dragLayer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent" >
+
+    <ImageView
+        android:id="@+id/startHandle"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        android:scaleType="center"
+        android:src="@drawable/icon_sub_left" />
+
+    <ImageView
+        android:id="@+id/endHandle"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        android:scaleType="center"
+        android:src="@drawable/icon_sub_right" />
+
+</com.roger.lineselectionwebview.drag.DragLayer>
