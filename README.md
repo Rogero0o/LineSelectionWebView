@@ -1,6 +1,6 @@
 LineSelectionWebView
 ====================
 
-！[](http://github.com/Rogero0o/LineSelectionWebView/raw/master/ima/1.jpg)
+！[](http://ww4.sinaimg.cn/mw690/a695acdegw1eldze7nca3g20dc0m9gmr.gif)
 
 LineSelectionWebView
